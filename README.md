@@ -21,3 +21,10 @@ Este dashboard tem como intuito por em prática o conteúdo das aulas de Excel, 
 
 ### Descrição do dashboard
 
+Nesse dashboard no lado esquerdo mostra o filtro do periodo de assinatura onde vc seleciona e ele mostra as alterações no gráfico de barras e nos BigNumbers, esses BigNumbers mostra o total de assinaturas do EA Play e o total de assinaturas do Minecraft, o gráfico de barras indica o total de vendas de plano de assinatura.
+
+![Essa imagem mostra o inicio do dashboard](imagem01.jpg)
+
+
+![Essa imagem mostra o final do dashboard](imagem02.jpg)
+
