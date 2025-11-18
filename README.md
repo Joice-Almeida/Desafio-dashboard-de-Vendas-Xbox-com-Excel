@@ -26,5 +26,5 @@ Nesse dashboard no lado esquerdo mostra o filtro do periodo de assinatura onde v
 ![Essa imagem mostra o inicio do dashboard](Imagem01.jpg)
 
 
-![Essa imagem mostra o final do dashboard](Imagem02.jpg)
+![Essa imagem mostra o final do dashboard](Image02.jpg)
 
